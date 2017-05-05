@@ -1,0 +1,23 @@
+/**index.wxss**/
+.up{
+    height: 30px;
+    width: 100%;
+    background-color: #ccc;
+}
+.up .one{
+    width: 33%;
+    height: 30px;
+    float: left;
+    font-size: 14px;
+    text-align: center;
+    line-height: 30px;
+}
+.down{
+    width: 100%;
+    height: 240px;
+    background-color: #0f0;
+}
+.down .one{
+    width: 750px;
+    height: 240px;
+}

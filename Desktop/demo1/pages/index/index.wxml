@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="container">
+ <view class="up">
+  <view class="one" id="a0" data-num="0" bindtap="abc">体育</view>
+  <view class="one" id="a1" data-num="1" bindtap="abd">新闻</view>
+  <view class="one" id="a2" data-num="2" bindtap="abe">财经</view>
+ </view>
+ <view class="down">
+  <view class="one" style="display:{{var1}};">1</view>
+  <view class="one" style="display:{{var2}};">2</view>
+  <view class="one" style="display:{{var3}};">3</view>
+ </view>
+</view>
